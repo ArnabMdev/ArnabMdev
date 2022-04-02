@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/102XK80zLnj_CYGlSlSm9M9ItX_tSTI8W/view?usp=sharing](https://drive.google.com/file/d/102XK80zLnj_CYGlSlSm9M9ItX_tSTI8W/view?usp=sharing)
 
-- ⚡ Fun fact **I like cracking bad jokes =)**
+- ⚡ Fun fact **I love dad jokes =)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
