@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on [Bowling Multiplayer Game](https://github.com/ArnabMdev/Bowling-Multiplayer)
 
-- 🌱 I’m currently learning **Augmented Reality, TensorFlow**
+- 🌱 I’m currently learning **Augmented Reality, Django, Selenium**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArnabMdev?tab=repositories](https://github.com/ArnabMdev?tab=repositories)
 
-- 💬 Ask me about **Unity3D,C#,**
+- 💬 Ask me about **Unity3D,C#,C++**
 
 - 📫 How to reach me **Mondalarnab15@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/102XK80zLnj_CYGlSlSm9M9ItX_tSTI8W/view?usp=sharing](https://drive.google.com/file/d/102XK80zLnj_CYGlSlSm9M9ItX_tSTI8W/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1bg4KZ3dFSccI4TldySRzpLzVLdxeG1md/view?usp=sharing](https://drive.google.com/file/d/1bg4KZ3dFSccI4TldySRzpLzVLdxeG1md/view?usp=sharing)
 
 - ⚡ Fun fact **I love dad jokes =)**
 
