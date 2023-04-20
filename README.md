@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Bowling Multiplayer Game](https://github.com/ArnabMdev/Bowling-Multiplayer)
 
-- 🌱 I’m currently learning **Augmented Reality,.NET, Selenium**
+- 🌱 I’m currently learning **Augmented Reality, .NET, Selenium**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArnabMdev?tab=repositories](https://github.com/ArnabMdev?tab=repositories)
 
